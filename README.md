@@ -1,0 +1,7 @@
+Human Touch to AI : The Ground Truth Challenge
+
+One of the key challenges for a Data Science team is the search for an accurately labelled dataset for solving the given problem. While it is easy to build a basic model that is reasonably accurate for a demo to the business, going beyond it towards a production worthy solution needs gold standard ground truth data.
+
+One of the easiest options available for a data science team is a crowdsourced annotation service. Most often your Information Security team is not going to allow you to share the information on the Internet! Even if you manage to find a crowd service provider who can handle this, it becomes increasingly difficult to get good results from crowdsourced operations if the expectations on accuracy is very high or the task itself is relatively complex. This is a situation that demands ‘human touch’ as a fully managed services from an experienced Data enablement company.
+
+Do you wonder what this has to do with ML Ops? While the need for ‘human touch’ services is very clear for ground truthing in AI/ML projects, there is a need for it in other lifecycle stages of the ML pipeline as well!
